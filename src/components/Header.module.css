@@ -1,0 +1,10 @@
+.testHeader {
+    background: url('http://i.imgur.com/bT2gl.png') left top;
+    height: 115px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    color: #f5f5f5;
+    font-size: 22px;
+    line-height: 57px;
+
+}

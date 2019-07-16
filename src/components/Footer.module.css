@@ -1,0 +1,8 @@
+.testFooter {
+    width: 100%;
+    background-color: rgb(144, 142, 146);
+    color: white;
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+}

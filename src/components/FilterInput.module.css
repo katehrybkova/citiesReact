@@ -1,0 +1,14 @@
+.inputStyle {
+	margin-top: 35px;
+	border:2px solid rgba(64, 24, 109, 0.5);
+	font-size:1.75em;
+	padding:.25em .5em .3125em;
+	color:rgb(46, 14, 83);
+	border-radius:.25em;
+	background:transparent;
+	transition:all .100s;
+}
+.filterContainer{
+	min-height: calc(100vh - 211px);
+
+}
