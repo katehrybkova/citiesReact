@@ -3,8 +3,6 @@ import CityInfo from './CityInfo';
 import style from './FilterInput.module.css';
 import axios from 'axios'
 
-
-
 export default class FilterInput extends Component {
     state = {
         showingInfo: false,
@@ -30,7 +28,6 @@ export default class FilterInput extends Component {
     
     render() {
         const { showingInfo, citiesList, citiesInfo } = this.state;
-
         this.getCityNames()
         return (
             <div className={style.filterContainer}>
